@@ -289,17 +289,6 @@ This dashboard can be used by:
 
 ---
 
-# 📈 Expected Outcomes
-
-- Better employee retention strategies
-- Improved workforce planning
-- Reduced employee turnover
-- Increased employee satisfaction
-- Enhanced HR reporting
-- Faster business decision-making
-- Improved organizational performance
-
----
 
 # 📷 Dashboard Preview
 
@@ -307,27 +296,6 @@ This dashboard can be used by:
 
 ```
 images/hr-analytics-dashboard.png
-```
-
----
-
-# 📁 Project Structure
-
-```
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   ├── HR_Analytics_Data.xlsx
-│
-├── Dashboard/
-│   ├── HR Analytics Dashboard.pbix
-│
-├── Images/
-│   ├── HR-Analytics-Dashboard.png
-│
-├── README.md
-│
-└── LICENSE
 ```
 
 ---
@@ -351,21 +319,18 @@ HR-Analytics-Dashboard/
 
 **Sanjay Unagar**
 
-**Data Analyst**
+Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
 
-### Skills
+🔗 GitHub:  
+https://github.com/SanjayTUnagar
 
-- Python
-- SQL
-- Power BI
-- Microsoft Excel
-- NumPy
-- Pandas
-- Data Visualization
-- Power Query
-- DAX
-- Business Intelligence
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sanjayunagar/
 
 ---
 
-## ⭐ If you found this project useful, don't forget to Star the repository!
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+---
